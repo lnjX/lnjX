@@ -1,4 +1,10 @@
-### Hi there 👋
+### Moin Moin, there 👋
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnjX&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnjX&layout=compact)
+
+I'm a KDE Developer working on [Kaidan](https://www.kaidan.im/), [QXmpp](https://github.com/qxmpp-project/qxmpp) (Kaidan's XMPP library) and some other projects like [Plasma Mobile](https://www.plasma-mobile.org/). I'm active in the Qt/KDE and XMPP community. I like strong-typed languages like C++ and Rust.
 
 <!--
 **lnjX/lnjX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
