@@ -1,4 +1,6 @@
-### Moin Moin, there 👋
+### 👋 Moin Moin, there
+
+[<img src="https://img.shields.io/liberapay/patrons/LNJ.svg?logo=liberapay">](https://liberapay.com/LNJ/)
 
 I'm a KDE Developer working on [Kaidan](https://www.kaidan.im/), [QXmpp](https://github.com/qxmpp-project/qxmpp) (Kaidan's XMPP library) and some other projects like [Plasma Mobile](https://www.plasma-mobile.org/). I'm active in the Qt/KDE and XMPP community. I like strong-typed languages like C++ and Rust.
 
